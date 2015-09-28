@@ -1,4 +1,4 @@
-http://the-dagger.github.io/
+https://the-dagger.github.io/
 ======================
 
 Github repo for Harshit Dwivedi's Website
