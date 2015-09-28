@@ -1,7 +1,7 @@
-vikramtiwari.github.io
+http://the-dagger.github.io/
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for Harshit Dwivedi's Website
 
 ## How to create one for your own
 1. Fork the repo
