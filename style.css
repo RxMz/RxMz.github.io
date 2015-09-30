@@ -3,7 +3,7 @@ html {
   height: 100%;
 }
 body {
-  background: #363442 url("./assets/bg.png") no-repeat center center fixed;
+  background: #bcdee7 url("./assets/bg.png") no-repeat center center fixed;
   background-size: 120% auto;
   position: fixed;
   padding: 0px;
